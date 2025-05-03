@@ -1,0 +1,13 @@
+-- Asignar usuario y correo
+git config --global user.name = ""
+git config --global user.email = ""
+
+-- Confirmar los cambios
+git config --global --list
+
+Si ya existe el repositorio en GitHub entonces se clona para trabajarlo en local.
+
+En la carpeta Documentos (opcional crear una carpeta y ejecutar el comando)
+
+-- Clonar el repositorio
+https://github.com/ivdelgadoga/cdm-alerta-inactividad.git

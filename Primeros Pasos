@@ -10,4 +10,14 @@ Si ya existe el repositorio en GitHub entonces se clona para trabajarlo en local
 En la carpeta Documentos (opcional crear una carpeta y ejecutar el comando)
 
 -- Clonar el repositorio
-https://github.com/ivdelgadoga/cdm-alerta-inactividad.git
+git clone https://github.com/ivdelgadoga/cdm-alerta-inactividad.git
+
+git clone https://github.com/ivdelgadoga/cdm-alerta-inactividad.git
+Cloning into 'cdm-alerta-inactividad'...
+git: 'credential-manager-core' is not a git command. See 'git --help'.
+Username for 'https://github.com': ivdelgadoga
+Password for 'https://ivdelgadoga@github.com':
+git: 'credential-manager-core' is not a git command. See 'git --help'.
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/ivdelgadoga/cdm-alerta-inactividad.git/'
